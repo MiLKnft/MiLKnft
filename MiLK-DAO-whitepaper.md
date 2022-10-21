@@ -1,5 +1,5 @@
 # MiLK DAO 
-MiLK DAO is a democratic and autonomous organisation on Cardano. The DAO's purposes are to use the pooled funds to invest in NFTs, Tokens and "Infrastructure" to create value for the DAO on blockchains including Cardano but not limited to it.
+MiLK DAO is a democratic and autonomous organization on Cardano. The DAO's purposes are to use the pooled funds to invest in NFTs, Tokens and "Infrastructure" to create value for the DAO on blockchains including Cardano but not limited to it.
 
 ## Treasury Wallet
 The treasury wallet will receive 70% of the mint funds, while the team will receive 30%.
@@ -20,7 +20,7 @@ The total supply of MiLK DAO NFTs is capped at 10,000.
 At first voting power will be given to MiLK DAO NFTs where 1 MILK DAO NFT = 1 vote, when $MOO tokens are introduced the voting power will be taken from the MiLK DAO NFTs and given to the tokens where 1 $MOO = 1 vote.
 
 - $MOO has a fixed supply of 100,000,000.
-- First portion of $MOO be airdropped to holders of MiLK DAO NFTs in December 2022.
+- First portion of $MOO airdropped to holders of MiLK DAO NFTs in December 2022.
 - $MOO holders will be able to stake their tokens to receive $MOO rewards, staking can be improved by holding MiLK DAO NFTs.
 
 ### $MOO distribution
@@ -32,7 +32,7 @@ At first voting power will be given to MiLK DAO NFTs where 1 MILK DAO NFT = 1 vo
 
 ### $MOO airdrops
 
-Holding MiLK DAO NFT will grant it holder 1,500 $MOO airdropped in 2 instances.
+Holding MiLK DAO NFT will grant the holders 1,500 $MOO airdropped in 2 instances.
 First airdrop happening on December 2022, airdropping 1,005 $MOO (67% of total airdrop) per MiLK DAO NFT.
 Second airdrop happening on December 2023, airdropping 495 $MOO (33% of total airdrop) per MiLK DAO NFT.
 
