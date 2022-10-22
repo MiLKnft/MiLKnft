@@ -36,7 +36,7 @@ Holding MiLK DAO NFT will grant the holders 1,500 $MOO airdropped in 2 instances
 First airdrop happening on December 2022, airdropping 1,005 $MOO (67% of total airdrop) per MiLK DAO NFT.
 Second airdrop happening on December 2023, airdropping 495 $MOO (33% of total airdrop) per MiLK DAO NFT.
 
-Team members will be airdropped at the same time and the same percentages of total aidrop as holders.
+Team members will be airdropped at the same time and the same percentages of total airdrop as holders.
 
 ### $MOO staking
 
