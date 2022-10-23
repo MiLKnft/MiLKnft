@@ -9,7 +9,7 @@ The treasury wallet will be public and linked here and on Discord for everyone t
 
 ## Mint
 - 24/10/2022 22:00 UTC First mint window opens to MiLK holders, which are allowed to purchase up to 15 MiLK DAO NFTs for 100 ADA each. MiLK Holders will also be airdropped 5 MiLK DAO NFTs per MiLK.
-- 26/10/2022 22:00 UTC Second mint window opens to whitelist members, which are allowed to purchase up to 5 MiLK DAO NFTs for 150 ADA each.
+- 26/10/2022 22:00 UTC Second mint window opens to whitelist members, which are allowed to purchase up to 10 MiLK DAO NFTs for 150 ADA each.
 - 29/10/2022 22:00 UTC The public mint starts, everyone is able to purchase an unlimited amount of MiLK DAO NFTs, up to 5 per tx for 200 ADA each.
 
 The total supply of MiLK DAO NFTs is capped at 10,000.
